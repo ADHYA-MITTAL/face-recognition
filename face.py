@@ -84,12 +84,8 @@ while True:
         if True in matches:
             first_match_index = matches.index(True)
             name = known_face_names[first_match_index]
-        # Assign attendance
-            if int(float(name)) in range(1,61):
-                sheet.cell(row=int(name), column=int(today)).value = "Present"
-            else:
-                pass
     
+        
     face_names.append(name)
     
     process_this_frame = not process_this_frame
@@ -106,7 +102,7 @@ while True:
     # Draw a box around the face
     cv2.rectangle(frame, (left, top), (right, bottom), (0, 0, 255), 2)
     
-           # Draw a label with a name below the face
+    # Draw a label with a name below the face
     cv2.rectangle(frame, (left, bottom - 35), (right, bottom), (0, 0, 255), cv2.FILLED)
     #font = cv2.FONT_HERSHEY_DUPLEX
     #cv2.putText(frame, name, (left + 6, bottom - 6), font, 1.0, (255, 255, 255), 1)
@@ -128,7 +124,7 @@ while True:
     cv2.imshow('Video', frame)
         
     # Save Woorksheet as present month
-    book.save(str(month)+'.xlsx')
+    book.save(str(month)+".xlsx")
     
     # Hit 'q' on the keyboard to quit!
     if cv2.waitKey(1) & 0xFF == ord('q'):
