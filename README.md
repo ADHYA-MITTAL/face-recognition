@@ -31,7 +31,7 @@ In this week ,i went through various github project and youtube videos to know a
 
 - After clicking on the first icon,the user have to register themselve if they are new users by entering their enrollment number and then uploading their image. Screenshot of the website is shown below:<br>
     ![image](https://user-images.githubusercontent.com/79329319/170869487-ec2c6c45-6b3f-4e0a-9996-d82606ce80e5.png)
-- Once registered, they can mark their attendance.For this we will run the file [app.py]() Camera will automatically recoganize their face if their data is stored and then one can view the attendance which will be shown in [attendance.csv]()
+- Once registered, they can mark their attendance.For this we will run the file [app.py](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/app.py) Camera will automatically recoganize their face if their data is stored and then one can view the attendance which will be shown in [attendance.csv]()
 ## Resource Used
  [Face detection using webcam](https://realpython.com/face-detection-in-python-using-a-webcam/#pre-requisites)<br>
  [Flaskweb Framework](https://www.youtube.com/watch?v=Az1MH_e1hVA)<br>
