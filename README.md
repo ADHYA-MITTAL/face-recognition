@@ -6,7 +6,7 @@
 2. [Agile Methodology](https://github.com/ADHYA-MITTAL/face-recognition/#agile-methodogoly)<br>
     - [How I used this methodology in my project](https://github.com/ADHYA-MITTAL/face-recognition#how-i-used-this-methodology-in-my-project)<br>
 3. [Project Flow](https://github.com/ADHYA-MITTAL/face-recognition/#project-flow) <br>
-4.[Future Scope of my project](https://github.com/ADHYA-MITTAL/face-recognition#future-scope-of-my-project)
+4. [Future Scope of my project](https://github.com/ADHYA-MITTAL/face-recognition#future-scope-of-my-project)<br>
 5. [Resources Used](https://github.com/ADHYA-MITTAL/face-recognition/#resource-used)
   
 ## About The Project
