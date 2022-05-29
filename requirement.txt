@@ -1,0 +1,10 @@
+It need these libraries to be preinstalled in the desktop so that it run without showing any error:
+OpenCV
+Numpy
+Face_recognition
+dlib
+cmake
+Datetime
+Flask
+Python
+All these libraries can be installed by using -pip install (name of library) in the command prompt
