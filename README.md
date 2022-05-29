@@ -25,10 +25,13 @@ In this week ,i went through various github project and youtube videos to know a
 **Week 3:**<br>
  completed the attendance tracking model which was recoganizing the face of different people whose images have been stored in back-end by accessing the video camera.Then it was marking the attendace of that person by recording their name and their entry time in an excel sheet named as [attendandance.csv](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/attendance.csv)<br>
 ## Project Flow
-- For running the attendance tracking model, run [face.py]() 
-- After you run the project you have to register your face so that system can identify you, so click on register new student<br>
-- After you click a small window will pop up in that you have to enter you ID and name and then upload your image.<br>
-- Once you register, you can mark your attendance by clicking on the button mark your attendance and then webpage [app.py]().You can view the attendance after clicking View Attendance button. It will show record in tabular format.
+- For running the attendance tracking model, run [face.py](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/face.py) 
+- This is the website for attendance tracking where the user have three options- To register themselve , To mark their attendance and third option is to view the marked attendance
+    ![image](https://user-images.githubusercontent.com/79329319/170869219-d317135c-ffe2-4c9f-bd16-c19edf2e47f4.png)
+
+- After clicking on the first icon,the user have to register themselve if they are new users by entering their enrollment number and then uploading their image. Screenshot of the website is shown below:<br>
+    ![image](https://user-images.githubusercontent.com/79329319/170869487-ec2c6c45-6b3f-4e0a-9996-d82606ce80e5.png)
+- Once registered, they can mark their attendance.For this we will run the file [app.py]() Camera will automatically recoganize their face if their data is stored and then one can view the attendance which will be shown in [attendance.csv]()
 ## Resource Used
  [Face detection using webcam](https://realpython.com/face-detection-in-python-using-a-webcam/#pre-requisites)<br>
  [Flaskweb Framework](https://www.youtube.com/watch?v=Az1MH_e1hVA)<br>
