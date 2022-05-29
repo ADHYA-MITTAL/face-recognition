@@ -18,12 +18,12 @@ Laptop,Desktops,Tablets
 ## Agile Methodogoly
 Agile is an approach for software/project development and evolving solution through colloabration between self organising and cross functional team.
 ### How I used this methodology in my project
-week 1(planning,research,design):<br>
+**Week 1(planning,research,design):**<br>
 In this week ,i went through various github project and youtube videos to know about the different libraries used in this project. I searched for the tutorials and worked on UI design of the project.<br>
-week 2:<br>
+**Week 2:**<br>
  I continue working on the code and research what new i can incorporate in my project. Encountered bugs in the project which i tried to debug.<br>
-week 3: <br>
- completed the attendance tracking model which was recoganizing the face of different people whose images have been stored in back-end by accessing the video camera.Then it was marking the attendace of that person by recording their name and their entry time in an excel sheet named as [attendandance.csv]()<br>
+**Week 3:**<br>
+ completed the attendance tracking model which was recoganizing the face of different people whose images have been stored in back-end by accessing the video camera.Then it was marking the attendace of that person by recording their name and their entry time in an excel sheet named as [attendandance.csv](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/attendance.csv)<br>
 ## Project Flow
   
 ## Resource Used
