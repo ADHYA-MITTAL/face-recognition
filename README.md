@@ -4,7 +4,7 @@
     - [Requirements of the project](https://github.com/ADHYA-MITTAL/face-recognition/edit/main/README.md#requirements-of-the-project)<br>
     - [Compatible platforms](https://github.com/ADHYA-MITTAL/face-recognition/edit/main/README.md#compatible-platform)<br>  
 2. [Agile Methodology](https://github.com/ADHYA-MITTAL/face-recognition/new/main?readme=1#agile-methodogoly)<br>
-    - How i used this methodology in my project<br>
+    - [How I used this methodology in my project](https://github.com/ADHYA-MITTAL/face-recognition/edit/main/README.md#how-i-used-this-methodology-in-my-project)<br>
 3. [Project Flow](https://github.com/ADHYA-MITTAL/face-recognition/new/main?readme=1#project-flow) <br>
 4. [Resources Used](https://github.com/ADHYA-MITTAL/face-recognition/new/main?readme=1#resource-used)
   
@@ -16,10 +16,10 @@ Mentioned in [requirement.txt](https://github.com/ADHYA-MITTAL/face-recognition/
 ### Compatible Platform:<br>
 Laptop,Desktops,Tablets
 ## Agile Methodogoly
-    Agile is an approach for software/project development and evolving solution through colloabration between self organising and cross functional team.
-### How i used this methodology in my project
+Agile is an approach for software/project development and evolving solution through colloabration between self organising and cross functional team.
+### How I used this methodology in my project
 week 1(planning,research,design):
-  In this week ,i went through various github project and youtube videos to know about the different libraries used in this project. I searched for the tutorials and worked on UI design of the project.
+In this week ,i went through various github project and youtube videos to know about the different libraries used in this project. I searched for the tutorials and worked on UI design of the project.
 week 2:
  I continue working on the code and research what new i can incorporate in my project. Encountered bugs in the project which i tried to debug.
 week 3: 
@@ -27,4 +27,6 @@ week 3:
 ## Project Flow
   
 ## Resource Used
-  
+ [Face detection using webcam](https://realpython.com/face-detection-in-python-using-a-webcam/#pre-requisites)<br>
+ [Flaskweb Framework](https://www.youtube.com/watch?v=Az1MH_e1hVA)<br>
+ [face recognition using diiferent library](https://analyticsindiamag.com/a-complete-guide-on-building-a-face-attendance-system/)
