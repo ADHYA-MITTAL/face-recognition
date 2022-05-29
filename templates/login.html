@@ -50,14 +50,20 @@
     box-shadow:         2px 2px 15px 0px rgba(0, 3, 0, 0.7); margin-left:auto; margin-right: auto; ">
 
         <form class="form-inline" enctype="multipart/form-data" action="/" method="POST">
+            
             <fieldset class="form-group">
                 <legend class="border-bottom mb-4"> Register new Student </legend>
                 <div class="stud_id_input">
                     <label for="student_id"><b>Student ID: &nbsp;&nbsp; </b></label>
                     <span>
                         <input type="text" class="form-control" id="student_id" name="Student_id">
-                        <button type="submit" class="btn btn-primary"> &nbsp;&nbsp; register </button>
+                        
                     </span>
+                    <p><b>Click on the "Choose File" button to upload your image:</b></p>
+                      <form action="/action_page.php">
+                      <input type="file" id="myFile" name="filename">
+                    </form>
+            <button type="submit" class="btn btn-primary"> &nbsp;&nbsp; register </button>
                 </div>
             </fieldset>
         </form>
