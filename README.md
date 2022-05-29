@@ -24,7 +24,7 @@ In this week ,i went through various github project and youtube videos to know a
 - **Sprint 2(May 13):**<br>
  I continue working on the code and research what new i can incorporate in my project. Encountered bugs in the project which i tried to debug.<br>
 - **Sprint 3(May 23):**<br>
- Completed the attendance tracking model which was recoganizing the face of different people whose images have been stored in back-end by accessing the video camera.Then it was marking the attendace of that person by recording their name and their entry time in an excel sheet named as [attendandance.csv](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/attendance.csv)<br>.I even worked on the front-end of my website and tried to use flask to incorporate python code of attendance tracking with my model. 
+ Completed the attendance tracking model which was recoganizing the face of different people whose images have been stored in back-end by accessing the video camera.Then it was marking the attendace of that person by recording their name and their entry time in an excel sheet named as [attendandance.csv](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/attendance.csv).<br>I even worked on the front-end of my website and tried to use flask to incorporate python code of attendance tracking with my model. 
 ## Project Flow
 - For running the attendance tracking model, run [face.py](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/face.py) 
 - This is the website for attendance tracking where the user have three options- To register themselve , To mark their attendance and third option is to view the marked attendance
