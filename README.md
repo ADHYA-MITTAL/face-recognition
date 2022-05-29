@@ -37,6 +37,10 @@ In this week ,i went through various github project and youtube videos to know a
     ![image](https://user-images.githubusercontent.com/79329319/170871101-26268822-0456-4166-939b-9526c5fc1603.png)
 - Attendance sheet<br>
     ![image](https://user-images.githubusercontent.com/79329319/170871144-21c0bb49-2cc1-47b7-8bdb-c2d88a0a6f12.png)
+## Future Scope of my project:<br>
+- This can be used by university/colleges/school/organizations to mark the attendance of their employee/students.
+- Sheet or webpage can be attached to the view your attendance option of  [main.html]() to view the attendance record.
+- using the backenend to store the data entered in the registeration page.
     
 ## Resource Used
  [Face detection using webcam](https://realpython.com/face-detection-in-python-using-a-webcam/#pre-requisites)<br>
