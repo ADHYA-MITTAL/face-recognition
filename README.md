@@ -33,7 +33,7 @@ In this week ,i went through various github project and youtube videos to know a
 
 - After clicking on the first icon,the user have to register themselve if they are new users by entering their enrollment number and then uploading their image. Screenshot of the website is shown below:<br>
     ![image](https://user-images.githubusercontent.com/79329319/170869487-ec2c6c45-6b3f-4e0a-9996-d82606ce80e5.png)
-- Once registered, they can mark their attendance.They have to click on secon icon where they will be directed to a page which will access the camera and mark the attendance.or For this we can run the file [app.py](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/app.py) Camera will automatically recoganize their face if their data is stored and will mark their attendance by recording their name and entry time.One can view the attendance which will be shown in [attendance.csv](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/attendance.csv).
+- Once registered, they can mark their attendance.They have to click on second icon where they will be directed to a page which will access the camera and mark the attendance.or For this we can run the file [app.py](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/app.py) Camera will automatically recoganize their face if their data is stored and will mark their attendance by recording their name and entry time.One can view the attendance which will be shown in [attendance.csv](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/attendance.csv).
 - Screenshot of Attendance Tracking<br>
     ![image](https://user-images.githubusercontent.com/79329319/170871101-26268822-0456-4166-939b-9526c5fc1603.png)
 - Attendance sheet<br>
