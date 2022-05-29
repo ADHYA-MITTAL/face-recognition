@@ -4,7 +4,7 @@
     - [Requirements of the project](https://github.com/ADHYA-MITTAL/face-recognition/edit/main/README.md#requirements-of-the-project)<br>
     - [Compatible platforms](https://github.com/ADHYA-MITTAL/face-recognition/edit/main/README.md#compatible-platform)<br>  
 2. [Agile Methodology](https://github.com/ADHYA-MITTAL/face-recognition/new/main?readme=1#agile-methodogoly)<br>
-    - [How I used this methodology in my project](https://github.com/ADHYA-MITTAL/face-recognition/edit/main/README.md#how-i-used-this-methodology-in-my-project)<br>
+    - [How I used this methodology in my project](https://github.com/ADHYA-MITTAL/face-recognition#how-i-used-this-methodology-in-my-project)<br>
 3. [Project Flow](https://github.com/ADHYA-MITTAL/face-recognition/new/main?readme=1#project-flow) <br>
 4. [Resources Used](https://github.com/ADHYA-MITTAL/face-recognition/new/main?readme=1#resource-used)
   
