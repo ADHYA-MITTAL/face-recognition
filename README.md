@@ -25,7 +25,7 @@ In this week ,i went through various github project and youtube videos to know a
 **Week 3:**<br>
  completed the attendance tracking model which was recoganizing the face of different people whose images have been stored in back-end by accessing the video camera.Then it was marking the attendace of that person by recording their name and their entry time in an excel sheet named as [attendandance.csv](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/attendance.csv)<br>
 ## Project Flow
-- For running the attendance tracking model, run [face.py]() and for running the webportal through which attendance can be marked run [app.py]()<br>
+- For running the attendance tracking model, run [face.py]() 
 - After you run the project you have to register your face so that system can identify you, so click on register new student<br>
 - After you click a small window will pop up in that you have to enter you ID and name and then upload your image.<br>
 - Once you register, you can mark your attendance by clicking on the button mark your attendance and then webpage [app.py]().You can view the attendance after clicking View Attendance button. It will show record in tabular format.
