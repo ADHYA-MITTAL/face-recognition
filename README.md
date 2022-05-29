@@ -18,12 +18,13 @@ Laptop,Desktops,Tablets
 ## Agile Methodogoly
 Agile is an approach for software/project development and evolving solution through colloabration between self organising and cross functional team.
 ### How I used this methodology in my project
-**Week 1(planning,research,design):**<br>
+ SCRUM is subset of Agile,an approach for developing software.The basic time working unit is the sprintand their planning is limited to sprints.
+- **Sprint 1(planning,research,design):**<br>
 In this week ,i went through various github project and youtube videos to know about the different libraries used in this project. I searched for the tutorials and worked on UI design of the project.<br>
-**Week 2:**<br>
+- **Sprint 2:**<br>
  I continue working on the code and research what new i can incorporate in my project. Encountered bugs in the project which i tried to debug.<br>
-**Week 3:**<br>
- completed the attendance tracking model which was recoganizing the face of different people whose images have been stored in back-end by accessing the video camera.Then it was marking the attendace of that person by recording their name and their entry time in an excel sheet named as [attendandance.csv](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/attendance.csv)<br>
+- **Sprint 3:**<br>
+ Completed the attendance tracking model which was recoganizing the face of different people whose images have been stored in back-end by accessing the video camera.Then it was marking the attendace of that person by recording their name and their entry time in an excel sheet named as [attendandance.csv](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/attendance.csv)<br>.I even worked on the front-end of my website and tried to use flask to incorporate python code of attendance tracking with my model. 
 ## Project Flow
 - For running the attendance tracking model, run [face.py](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/face.py) 
 - This is the website for attendance tracking where the user have three options- To register themselve , To mark their attendance and third option is to view the marked attendance
@@ -31,7 +32,7 @@ In this week ,i went through various github project and youtube videos to know a
 
 - After clicking on the first icon,the user have to register themselve if they are new users by entering their enrollment number and then uploading their image. Screenshot of the website is shown below:<br>
     ![image](https://user-images.githubusercontent.com/79329319/170869487-ec2c6c45-6b3f-4e0a-9996-d82606ce80e5.png)
-- Once registered, they can mark their attendance.For this we will run the file [app.py](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/app.py) Camera will automatically recoganize their face if their data is stored and then one can view the attendance which will be shown in [attendance.csv](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/attendance.csv)
+- Once registered, they can mark their attendance.For this we will run the file [app.py](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/app.py) Camera will automatically recoganize their face if their data is stored and will mark their attendance by recording their name and entry time.One can view the attendance which will be shown in [attendance.csv](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/attendance.csv)
 ## Resource Used
  [Face detection using webcam](https://realpython.com/face-detection-in-python-using-a-webcam/#pre-requisites)<br>
  [Flaskweb Framework](https://www.youtube.com/watch?v=Az1MH_e1hVA)<br>
