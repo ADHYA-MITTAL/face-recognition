@@ -6,7 +6,8 @@
 2. [Agile Methodology](https://github.com/ADHYA-MITTAL/face-recognition/#agile-methodogoly)<br>
     - [How I used this methodology in my project](https://github.com/ADHYA-MITTAL/face-recognition#how-i-used-this-methodology-in-my-project)<br>
 3. [Project Flow](https://github.com/ADHYA-MITTAL/face-recognition/#project-flow) <br>
-4. [Resources Used](https://github.com/ADHYA-MITTAL/face-recognition/#resource-used)
+4.[Future Scope of my project](https://github.com/ADHYA-MITTAL/face-recognition#future-scope-of-my-project)
+5. [Resources Used](https://github.com/ADHYA-MITTAL/face-recognition/#resource-used)
   
 ## About The Project
 - It is an Attendance tracking aaplication which recognize people by their faces, mark their attendance by recording their name and their entry time in an excel sheet.
