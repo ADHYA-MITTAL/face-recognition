@@ -13,7 +13,7 @@
 - It is an Attendance tracking model which recognize people by their faces, mark their attendance by recording their name and their entry time in an excel sheet.
 - This project is made during microsoft engage 2022.<br>
 ### Requirements of the project
-Mentioned in   
+Mentioned in [requirement.txt](https://github.com/ADHYA-MITTAL/face-recognition/blob/main/requirement.txt)   
   
   
 ## Agile Methodogoly
